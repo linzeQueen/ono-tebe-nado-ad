@@ -1,5 +1,1 @@
-# Оно тебе надо
-
-Проектная работа курса Яндекс Практикума. Одностраничный сайт аукциона вещей, в которые никто не верил, на HTML и CSS.
-
-[Репозиторий на GitHub](https://github.com/linzeQueen/ono-tebe-nado-ad)
+https://github.com/linzeQueen/ono-tebe-nado-ad
